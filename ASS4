@@ -1,3 +1,4 @@
+// students management system.
 pragma solidity ^0.6;
 contract Student_management
 
